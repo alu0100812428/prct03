@@ -1,1 +1,3 @@
 Respuestas a las preguntas de la práctica 3
+1.-¿Cuál es el propósito de trabajar con múltiples ramas?
+Para poder modificar software sin modificar la rama máster. Y si luego lo queremos unir a la rama máster lo unimos con una fusión.
