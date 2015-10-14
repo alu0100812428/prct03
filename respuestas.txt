@@ -2,5 +2,10 @@ Respuestas a las preguntas de la práctica 3
 1.-¿Cuál es el propósito de trabajar con múltiples ramas?
 Para poder modificar software sin modificar la rama máster. Y si luego lo queremos unir a la rama máster lo unimos con una fusión.
 
+
 3.-¿Cuál es la ventaja de reorganizar (rebase)?
 Poder juntar ramas de trabajo que se han trabajado en paralelo.
+
+2.-¿Qué es una reorganización(rebase)?
+Se usa para fusionar el programa cuando después de crear una rama, la rama máster vuelve a hacer un commit, entonces no se puede hacer una fusión normal(merge), sino que tenemos que hacer un rebase para que se unan ambas ramas.
+
